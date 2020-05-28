@@ -1,0 +1,12 @@
+{
+  "id": "notion",
+  "name": "Notion",
+  "version": "1.0.0",
+  "description": "Notion",
+  "main": "index.js",
+  "author": "Bart Nowak <bnowak@bnowak.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.notion.so/bnowak/"
+  }
+}
